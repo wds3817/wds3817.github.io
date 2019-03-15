@@ -1,6 +1,6 @@
 # main text of home
-name: John Doe
-bio: A Man who travels the world eating noodles
+name: Dongsheng Wang
+bio: A Man who travels the world eating rice
 
 # twitter summary info
 description: A blog about technology and stuff related
@@ -16,7 +16,8 @@ resume: true
 resume-external: true
 resume-url: https://google.com/?q=my+resume
 
-url: https://koppl.in/indigo
+url: http://wds3817.github.io
+# https://www.linkedin.com/in/wang-dongsheng-636141169/
 # your url: http://USERNAME.github.io
 
 permalink: /:title/
@@ -39,7 +40,7 @@ twitter: wds3817
 # google: mygoogle
 # instagram: myinstagram
 # pinterest: mypinterest
-# linkedin: mylinkedin
+linkedin: wang-dongsheng-636141169
 # youtube: myyoutube
 # spotify: myspotify
 github: wds3817
@@ -55,7 +56,7 @@ email: wds3817@gmail.com
 
 authors:
     johndoe:
-        name: John Doe
+        name: Dongsheng Wang
         bio: A Man who travels the world eating noodles
         external-image: false
         picture: assets/images/profile.jpg
